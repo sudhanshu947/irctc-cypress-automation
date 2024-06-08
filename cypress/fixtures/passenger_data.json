@@ -1,25 +1,25 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "12910",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "09/06/2024",
+  "SOURCE_STATION": "NZM",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "DESTINATION_STATION": "BDTS",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "mesudhanshuu@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "Sabita kumari",
       "AGE": 26,
-      "GENDER": "Male",
+      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Ashwind Kumar",
+      "AGE": 8,
+      "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
